@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: azure-search.api.streamdata.gallery
+title: Streamdata Gallery Azure Search
+url: azure-search.streamdata.gallery
 tag: Azure Search
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: azure-search
 github_branch: master
 collections:
