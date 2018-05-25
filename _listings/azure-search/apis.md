@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Search
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,9 +23,9 @@ apis:
   tags: Admin Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamelistadminkeys-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamelistadminkeys-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamelistadminkeys-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamelistadminkeys-post-openapi.md
 - name: Azure Search API Admin Keys Regenerate
   x-api-slug: azure-search-api
   description: Regenerates either the primary or secondary admin API key. You can
@@ -36,9 +36,9 @@ apis:
   tags: Admin Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenameregenerateadminkeykeykind-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenameregenerateadminkeykeykind-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenameregenerateadminkeykeykind-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenameregenerateadminkeykeykind-post-openapi.md
 - name: Azure Search API Query Keys Create
   x-api-slug: azure-search-api
   description: Generates a new query key for the specified Search service. You can
@@ -49,9 +49,9 @@ apis:
   tags: Query Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamecreatequerykeyname-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamecreatequerykeyname-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamecreatequerykeyname-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamecreatequerykeyname-post-openapi.md
 - name: Azure Search API Query Keys List By Search Service
   x-api-slug: azure-search-api
   description: Returns the list of query API keys for the given Azure Search service.
@@ -61,9 +61,9 @@ apis:
   tags: Query Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamelistquerykeys-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamelistquerykeys-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamelistquerykeys-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamelistquerykeys-get-openapi.md
 - name: Azure Search API Query Keys Delete
   x-api-slug: azure-search-api
   description: Deletes the specified query key. Unlike admin keys, query keys are
@@ -75,9 +75,9 @@ apis:
   tags: Query Keys
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamedeletequerykeykey-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamedeletequerykeykey-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicenamedeletequerykeykey-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicenamedeletequerykeykey-delete-openapi.md
 - name: Azure Search API Services Create Or Update
   x-api-slug: azure-search-api
   description: Creates or updates a Search service in the given resource group. If
@@ -89,7 +89,7 @@ apis:
   tags: Services
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicename-put-openapi.md
 - name: Azure Search API Services Get
   x-api-slug: azure-search-api
   description: Gets the Search service with the given name in the given resource group.
@@ -99,9 +99,9 @@ apis:
   tags: Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicename-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicename-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicename-get-openapi.md
 - name: Azure Search API Services Delete
   x-api-slug: azure-search-api
   description: Deletes a Search service in the given resource group, along with its
@@ -112,9 +112,9 @@ apis:
   tags: Services
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicename-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicename-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservicessearchservicename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservicessearchservicename-delete-openapi.md
 - name: Azure Search API Services List By Resource Group
   x-api-slug: azure-search-api
   description: Gets a list of all Search services in the given resource group.
@@ -124,9 +124,9 @@ apis:
   tags: Services Resource Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservices-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservices-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftsearchsearchservices-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-searchsearchservices-get-openapi.md
 - name: Azure Search API Services Check Name Availability
   x-api-slug: azure-search-api
   description: Checks whether or not the given Search service name is available for
@@ -138,7 +138,7 @@ apis:
   tags: Services Name Availability
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidprovidersmicrosoftsearchchecknameavailability-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/subscriptionssubscriptionidprovidersmicrosoft-searchchecknameavailability-post-openapi.md
 - name: Azure Search API
   x-api-slug: azure-search-api
   description: Azure Search is a fully-managed service for adding sophisticated search
