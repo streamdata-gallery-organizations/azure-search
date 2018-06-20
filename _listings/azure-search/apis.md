@@ -6,10 +6,10 @@ description: Azure Search is a fully-managed service for adding sophisticated se
   full-text search.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-search.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Search
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/apis.md
 specificationVersion: "0.14"
 apis:
