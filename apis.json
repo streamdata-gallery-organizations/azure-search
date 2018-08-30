@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Azure Search",
+	"description": "This is a repository of azure search APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/azure-search.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://azure-search.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Azure Search",
+			"x-api-slug": "azure-search",
+			"description": "Azure Search is a fully-managed service for adding sophisticated search capabilities to web and mobile applications without the typical complexities of full-text search.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-search.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/search/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Azure Search",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Azure Search",
+	"include": [
+		{
+			"name": "Azure Search",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-search/master/_listings/azure-search/apis.yaml"
+		}
+	]
+}

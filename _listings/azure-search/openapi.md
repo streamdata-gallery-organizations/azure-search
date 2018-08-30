@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Azure Search
 x-complete: 1
@@ -186,4 +185,3 @@ paths:
           description: OK
       tags:
       - Services Name Availability
----
